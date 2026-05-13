@@ -2,25 +2,25 @@
 
 A comprehensive prototype demonstrating **Vehicle-to-Vehicle (V2V) communication** for intelligent traffic management, comparing smart V2V-enabled vehicles with legacy non-V2V vehicles.
 
-## 🎯 Key Features
+## Key Features
 
 ### Core Capabilities
-✅ **V2V Communication** - Real-time data exchange between smart vehicles  
-✅ **AI-Powered Traffic Optimization** - Machine learning for intelligent speed recommendations  
-✅ **Collision Detection & Avoidance** - Predictive collision prevention for V2V vehicles  
-✅ **Emergency Vehicle Priority** - Automatic path clearing (V2V vehicles only)  
-✅ **Smart Traffic Lights** - Adaptive signal control  
-✅ **Real-time Dashboard** - Live visualization and comparison  
+**V2V Communication** - Real-time data exchange between smart vehicles  
+**AI-Powered Traffic Optimization** - Machine learning for intelligent speed recommendations  
+**Collision Detection & Avoidance** - Predictive collision prevention for V2V vehicles  
+**Emergency Vehicle Priority** - Automatic path clearing (V2V vehicles only)  
+**Smart Traffic Lights** - Adaptive signal control  
+**Real-time Dashboard** - Live visualization and comparison  
 
 ### Comparison Features
-🆚 **V2V vs Non-V2V Comparison**
+**V2V vs Non-V2V Comparison**
 - Side-by-side performance metrics
 - Collision avoidance effectiveness
 - Emergency vehicle response
 - Traffic flow efficiency
 - Speed optimization
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
